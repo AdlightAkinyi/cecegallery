@@ -26,3 +26,6 @@ Copy a link to the photo to share with my friends.
 
 View photos based on the location they were taken.
 
+# Technologies used
+python3.8
+
