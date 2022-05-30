@@ -15,6 +15,9 @@ python -m venv virtual
 
 pip install django
 
+# Running the app
+python3 manage.py runserver
+
 # user story
 View different photos that interest me.
 
