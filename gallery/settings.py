@@ -1,3 +1,4 @@
+import os
 """
 Django settings for gallery project.
 
@@ -31,13 +32,14 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'images',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'images.apps.imagesconfig',
+    # 'images.apps.imagesconfig',
 ]
 
 MIDDLEWARE = [
