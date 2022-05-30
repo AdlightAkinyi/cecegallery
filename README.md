@@ -18,6 +18,8 @@ pip install django
 # Running the app
 python3 manage.py runserver
 
+# Testing the app 
+
 # user story
 View different photos that interest me.
 
