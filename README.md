@@ -29,3 +29,4 @@ View photos based on the location they were taken.
 # Technologies used
 python3.8
 
+Django
