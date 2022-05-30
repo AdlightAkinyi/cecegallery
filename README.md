@@ -5,3 +5,12 @@ A Django application for pictures that allows users to upload images for other p
 
 # Author
 Adlight Akinyi
+
+# Set-up/Installation requirements
+git clone 
+
+cd django-photo-gallery
+
+python -m venv virtual
+
+pip install django
