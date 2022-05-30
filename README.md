@@ -30,3 +30,5 @@ View photos based on the location they were taken.
 python3.8
 
 Django
+
+# Support & Contact details
