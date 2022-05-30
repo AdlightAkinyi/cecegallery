@@ -7,7 +7,7 @@ A Django application for pictures that allows users to upload images for other p
 Adlight Akinyi
 
 # Set-up/Installation requirements
-git clone 
+git clone  https://github.com/AdlightAkinyi/cecegallery.git
 
 cd django-photo-gallery
 
