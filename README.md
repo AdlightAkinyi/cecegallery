@@ -18,7 +18,6 @@ pip install django
 # Running the app
 python3 manage.py runserver
 
-# Testing the app 
 
 # user story
 View different photos that interest me.
@@ -40,7 +39,7 @@ Django
 adlightakinyi1@gmail.com
 
 # Licence
-AdlightAkinyi/photo-app is licensed under the
+AdlightAkinyi/cecegallery is licensed under the
 
 MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
