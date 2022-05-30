@@ -32,3 +32,4 @@ python3.8
 Django
 
 # Support & Contact details
+adlightakinyi1@gmail.com
